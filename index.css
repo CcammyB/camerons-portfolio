@@ -23,9 +23,12 @@ a:hover{
 p{
   font-style: italic;
   color:orange;
-
-
 }
+
+nav{
+  background: transparent;
+}
+nav
 .heading{
   font-size:50px;
 }
@@ -41,7 +44,7 @@ p{
   background-color=#
 }
 .twitter{
-background-color:# 9AD1D4;
+background-color:#9AD1D4;
 border-radius: 40px;
 background: transparent;
 border-width: 0;
@@ -77,3 +80,7 @@ border-width: 0;
   h3{
     color:lightblue;
   }
+footer{
+  color: blue;
+  font-size: 15px;
+}
